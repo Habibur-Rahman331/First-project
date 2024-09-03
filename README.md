@@ -1,4 +1,4 @@
-<h1 align="center">Greeting,assalamuwalaikum Habibur Rahman</h1>
+<h1 align="center">Greeting,assalamuwalaikum </h1>
 <h3 align="center">you can learn data science from us.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibur-rahman331&label=Profile%20views&color=0e75b6&style=flat" alt="habibur-rahman331" /> </p>
